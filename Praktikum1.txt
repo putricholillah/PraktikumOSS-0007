@@ -1,1 +1,2 @@
 Putri Cholillah : G231200007 : Semarang
+Catatan : Praktikum dengan menggunakan GIT
